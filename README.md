@@ -2,3 +2,5 @@
 Hello Git
 Hello local pc
 Line_conflict
+Local Conflict
+
